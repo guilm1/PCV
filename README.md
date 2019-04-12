@@ -1,2 +1,3 @@
 # PCV
-Heurísticas para o problema do caixeiro viajante 
+Heurísticas gulosas e parcialmente gulosas para o problema do caixeiro viajante 
+Codes from assignments in Computational Intelligence for Optimization
